@@ -1,2 +1,2 @@
-git software is free
+git software is free is distributed under the GPL
 git is a distributed version control system
